@@ -87,6 +87,21 @@
 	},
 
 	{
+		"name": "Mercenary",
+		"unitType": "Sword",
+		"strength": 6,
+		"movement": 1,
+		"cost": 40,
+		"requiredTech": "Iron Working",
+		"uniques": [
+			"Only available <with [Iron]>",
+			"Can upgrade to [Maceman]",
+			"[+10]% Strength <vs cities> <when attacking>"
+		],
+		"attackSound": "metalhit"
+	},
+
+	{
 		"name": "Pikeman",
 		"unitType": "Sword",
 		"strength": 6,
