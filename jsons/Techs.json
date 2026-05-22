@@ -498,6 +498,13 @@
 				"quote": "\"If music be the food of love, play on.\" - William Shakespeare"
 			},
 			{
+				"name": "Mercenaries",
+				"cost": 200,
+				"row": 13,
+				"prerequisites": ["Currency"],
+				"quote": "\"A man who fights for coin is loyal only to his purse.\" - George R. R. Martin."
+			},
+			{
 				"name": "Philosophy",
 				"cost": 800,
 				"row": 3,
