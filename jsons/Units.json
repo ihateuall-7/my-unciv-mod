@@ -92,7 +92,7 @@
 		"strength": 6,
 		"movement": 1,
 		"cost": 40,
-		"requiredTech": "Iron Working",
+		"requiredTech": "Mercenaries",
 		"uniques": [
 			"Only available <with [Gold Ore]>",
 			"[+10]% Strength <vs cities> <when attacking>"
