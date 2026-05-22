@@ -94,8 +94,7 @@
 		"cost": 40,
 		"requiredTech": "Iron Working",
 		"uniques": [
-			"Only available <with [Iron]>",
-			"Can upgrade to [Maceman]",
+			"Only available <with [Gold Ore]>",
 			"[+10]% Strength <vs cities> <when attacking>"
 		],
 		"attackSound": "metalhit"
